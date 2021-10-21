@@ -1,0 +1,22 @@
+PS C:\Users\Familia Franco\Documents\Recuperacion\Reto3A\10141700> npm run test
+
+> pryecto_sprint2@0.1.0 test C:\Users\Familia Franco\Documents\Recuperacion\Reto3A\10141700
+> jest --json
+
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+ PASS  tests/unit/component_test.spec.js (34.107s)
+  TeamCard
+    √ it shows name in the card component (149ms)
+    √ it shows code in the card component (36ms)
+    √ it shows descripcion in the card component (33ms)
+    √ it shows rol in the card component (32ms)
+    √ it renders props with data (20ms)
+    √ The object is like expected (22ms)
+    √ It should render the image of the member (98ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       7 passed, 7 total
